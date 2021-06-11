@@ -11,3 +11,4 @@ scipy == 1.6.2
 seaborn == 0.11.1
 numpy == 1.20.1
 scikit-learn == 0.24.1
+mkl-random == 1.2.1
